@@ -1,0 +1,18 @@
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\Проект 1.exe.config
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\Проект 1.exe
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\Проект 1.pdb
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\HtmlAgilityPack.dll
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\WebDriver.dll
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\HtmlAgilityPack.pdb
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\HtmlAgilityPack.xml
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\WebDriver.xml
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект_1.Form1.resources
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект_1.Properties.Resources.resources
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект 1.csproj.GenerateResource.cache
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект 1.csproj.CoreCompileInputs.cache
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект 1.csproj.CopyComplete
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект 1.exe
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект 1.pdb
+C:\Users\artio\source\repos\Проект 1\Проект 1\bin\Release\image\yandex.png
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект_1.Form2.resources
+C:\Users\artio\source\repos\Проект 1\Проект 1\obj\Release\Проект 1.csprojAssemblyReference.cache
